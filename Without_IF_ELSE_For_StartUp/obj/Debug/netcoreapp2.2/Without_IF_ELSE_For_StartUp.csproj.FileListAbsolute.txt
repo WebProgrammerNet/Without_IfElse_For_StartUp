@@ -1,0 +1,11 @@
+C:\Users\Code\source\repos\Without_IF_ELSE_For_StartUp\Without_IF_ELSE_For_StartUp\bin\Debug\netcoreapp2.2\Without_IF_ELSE_For_StartUp.deps.json
+C:\Users\Code\source\repos\Without_IF_ELSE_For_StartUp\Without_IF_ELSE_For_StartUp\bin\Debug\netcoreapp2.2\Without_IF_ELSE_For_StartUp.runtimeconfig.json
+C:\Users\Code\source\repos\Without_IF_ELSE_For_StartUp\Without_IF_ELSE_For_StartUp\bin\Debug\netcoreapp2.2\Without_IF_ELSE_For_StartUp.runtimeconfig.dev.json
+C:\Users\Code\source\repos\Without_IF_ELSE_For_StartUp\Without_IF_ELSE_For_StartUp\bin\Debug\netcoreapp2.2\Without_IF_ELSE_For_StartUp.dll
+C:\Users\Code\source\repos\Without_IF_ELSE_For_StartUp\Without_IF_ELSE_For_StartUp\bin\Debug\netcoreapp2.2\Without_IF_ELSE_For_StartUp.pdb
+C:\Users\Code\source\repos\Without_IF_ELSE_For_StartUp\Without_IF_ELSE_For_StartUp\obj\Debug\netcoreapp2.2\Without_IF_ELSE_For_StartUp.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\Without_IF_ELSE_For_StartUp\Without_IF_ELSE_For_StartUp\obj\Debug\netcoreapp2.2\Without_IF_ELSE_For_StartUp.csproj.CoreCompileInputs.cache
+C:\Users\Code\source\repos\Without_IF_ELSE_For_StartUp\Without_IF_ELSE_For_StartUp\obj\Debug\netcoreapp2.2\Without_IF_ELSE_For_StartUp.AssemblyInfoInputs.cache
+C:\Users\Code\source\repos\Without_IF_ELSE_For_StartUp\Without_IF_ELSE_For_StartUp\obj\Debug\netcoreapp2.2\Without_IF_ELSE_For_StartUp.AssemblyInfo.cs
+C:\Users\Code\source\repos\Without_IF_ELSE_For_StartUp\Without_IF_ELSE_For_StartUp\obj\Debug\netcoreapp2.2\Without_IF_ELSE_For_StartUp.dll
+C:\Users\Code\source\repos\Without_IF_ELSE_For_StartUp\Without_IF_ELSE_For_StartUp\obj\Debug\netcoreapp2.2\Without_IF_ELSE_For_StartUp.pdb
